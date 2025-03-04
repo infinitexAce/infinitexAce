@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinitexace" alt="infinitexace" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on Improving Myself
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning Python Automations
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on Every Tech
 
-- 🤝 I’m looking for help with **Nothing**
+- 🤝 I’m looking for help with Web and Mobile Applications
 
-- 👨‍💻 All of my projects are available at [Nothing](Nothing)
+- 👨‍💻 All of my projects are available at [rajjitlai](https://rajjitlaishram.netlify.app/)
 
 - 📝 I regularly write articles on [Nothing](Nothing)
 
